@@ -78,4 +78,4 @@ function indexFinder(arr){
         arr[i] = indexes[i];
     }
     return arr;
-}
+}# assesment-2
